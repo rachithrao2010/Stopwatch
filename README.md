@@ -2,6 +2,7 @@ Hey!
 So this is my stopwatch!
 It uses cpp for the firmware, a custom case, and a PCB.
 Here's a 3D render of the PCB:
+You press the first to start it, the second to stop it, and the third to reset it! super simple stopwatch.
 
 <img width="1075" height="907" alt="Screenshot 2026-11-01 215130" src="https://github.com/user-attachments/assets/0080d885-d242-406e-8260-3403f2c201bf" />
 
