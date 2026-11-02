@@ -11,3 +11,5 @@ and here's a render of the case:
 <img width="1517" height="885" alt="Screenshot 2026-11-01 221753" src="https://github.com/user-attachments/assets/15cb6078-ed69-49c1-8ce1-34cb8b71f011" />
 
 
+Here's the actual onshape link:
+[https://cad.onshape.com/documents/91400ce87159a00817b7653b/w/000341720edffc3c094def40/e/c153008d87bc4e3ec63b634d](url)
